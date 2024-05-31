@@ -20,3 +20,5 @@ Tableau Visualizations: Tableau dashboards and visualizations presenting key fin
 Business Presentation: A document summarizing the analysis and visualizations for a clear and concise presentation to Eniac's CEO.
 Benefits
 This data-driven analysis empowered Eniac to make an informed decision regarding the potential partnership with Magist.
+
+Tableau Dashboard Link: https://public.tableau.com/app/profile/anish.shiralkar/viz/Magist_17171686562560/Dashboard1?publish=yes
