@@ -1,7 +1,7 @@
 # Eniac
 Analyzing the dataset of Magist (Brazilian Marketplace) before signing off a business deal.
 
-#*Technical skills gained: This project utilized skills in data extraction, SQL analysis, data visualization with Tableau, creating business presentation and data-driven decision making.*#
+## Technical skills gained: This project utilized skills in data extraction, SQL analysis, data visualization with Tableau, creating business presentation and data-driven decision making ##
 Languages & tools leveraged: MySQL (RDBMS), Tableau (Visualization), Notion (Project Management), Google Slides (Presentation)
 
 Project Overview
