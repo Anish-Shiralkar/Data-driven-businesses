@@ -1,6 +1,7 @@
 # Data Analysis with SQL & Tableau
 
 Skills gained: Data extraction and querying, Data analysis & visualization, Market research 
+
 Languages & tools leveraged: MySQL (RDBMS), Tableau (Visualization), Notion (Project Management), Google Slides (Presentation) 
 
 ## Situation ##
