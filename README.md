@@ -1,8 +1,7 @@
 # Data Analysis with SQL & Tableau
 
-### Technical skills gained: This project utilized skills in data extraction, SQL analysis, data visualization with Tableau, creating business presentation and data-driven decision making ###
-### Languages & tools leveraged: MySQL (RDBMS), Tableau (Visualization), Notion (Project Management), Google Slides (Presentation) ###
-
+Skills gained: Data extraction and querying, Data analysis & visualization, Market research 
+Languages & tools leveraged: MySQL (RDBMS), Tableau (Visualization), Notion (Project Management), Google Slides (Presentation) 
 
 ## Situation ##
 Eniac, a Spanish electronics retailer specializing in Apple products, was considering a market entry into Brazil. They were approached by Magist, a Brazilian marketplace platform, which offered to manage their supply chain, market entry, and bureaucracy. However, Eniac had concerns about Magist's ability to effectively sell high-end tech products and deliver them on time at competitive prices.
